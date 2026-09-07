@@ -17,7 +17,8 @@ delays, and cancellations.
 - Data Visualization & Dashboard Design
 
 ## Dashboard Preview
-<img width="2252" height="1278" alt="image" src="https://github.com/user-attachments/assets/f8916019-e6e1-48ec-8855-854317e4dd55" />
+<img width="1794" height="1014" alt="image" src="https://github.com/user-attachments/assets/31345cc8-dbb1-4843-a685-228de913c77b" />
+
 
 ## Data Files
 📊 [Flights Data File 1] https://drive.google.com/file/d/1QyITVJiNEOQUKn6HxuK_WoqWnVviUmta/view?usp=drive_link
